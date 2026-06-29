@@ -1,18 +1,18 @@
 # Hi 👋, I'm Shantanu
 
-- 🎓 BTech CSE Student (2026 batch)
-- 💻 Learning Web Development & Data Structures
-- 🌱 Currently building projects and improving my GitHub
-- 📫 Reach me at: shaanch024@email.com or LinkedIn
+🎓 BTech CSE Student (2026 batch)  
+💻 Currently learning C++ (for Competitive Programming) and Web Development  
+🌱 Building my first projects and improving my GitHub profile  
 
 ## Skills
-- Languages: Python, C++ (learning)
-- Web: HTML (learning)
-- Tools: Git, GitHub, VS Code
+- **Languages**: Python (basics), C++ (learning)
+- **Web**: HTML, CSS (learning)
+- **Tools**: Git, GitHub, VS Code
 
 ## Projects
-(We'll add projects here later)
+I'm currently working on my first few projects. Check back soon!
 
 ## Connect with me
-- LinkedIn: [your link]
-- LeetCode: https://leetcode.com/u/uselesscoder1/
+- 📧 Email: shaanch024@email.com
+- 💻 LeetCode: (https://leetcode.com/u/shantanuchakrabarty/)
+- 🔗 LinkedIn: Coming soon
