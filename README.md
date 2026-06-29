@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Shantanu
 
-<!--
-**skibidi69toilet/skibidi69toilet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BTech CSE Student (2026 batch)
+- 💻 Learning Web Development & Data Structures
+- 🌱 Currently building projects and improving my GitHub
+- 📫 Reach me at: shaanch024@email.com or LinkedIn
 
-Here are some ideas to get you started:
+## Skills
+- Languages: Python, C++ (learning)
+- Web: HTML (learning)
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+(We'll add projects here later)
+
+## Connect with me
+- LinkedIn: [your link]
+- LeetCode: https://leetcode.com/u/uselesscoder1/
