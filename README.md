@@ -1,18 +1,23 @@
-# Hi 👋, I'm Shantanu
+# Hi 👋, I'm Shantanu Chakrabarty
 
 🎓 BTech CSE Student (2026 batch)  
-💻 Currently learning C++ (for Competitive Programming) and Web Development  
-🌱 Building my first projects and improving my GitHub profile  
+💻 Currently learning Web Development and building projects  
+🌱 Passionate about software development and problem-solving
+
+## 🚀 Live Portfolio
+Check out my projects and work here:  
+https://shantanuchakrabarty.github.io/personal-portfolio/
 
 ## Skills
-- **Languages**: Python (basics), C++ (learning)
-- **Web**: HTML, CSS (learning)
+- **Languages**: Python, C++ (learning)
+- **Web**: HTML, CSS, JavaScript (learning)
 - **Tools**: Git, GitHub, VS Code
 
 ## Projects
-I'm currently working on my first few projects. Check back soon!
+- **Expense Tracker** – Command-line app with file persistence
+- **Simple Calculator** – Basic arithmetic operations with error handling
 
 ## Connect with me
 - 📧 Email: shaanch024@email.com
-- 💻 LeetCode: (https://leetcode.com/u/shantanuchakrabarty/)
-- 🔗 LinkedIn: Coming soon
+- 💻 GitHub: [github.com/shantanuchakrabarty](https://github.com/shantanuchakrabarty)
+- 💻 LeetCode: [leetcode.com/u/shantanuchakrabarty](https://leetcode.com/u/shantanuchakrabarty/)
